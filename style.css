@@ -1,0 +1,40 @@
+
+.dice {
+    text-align: center;
+    display: inline-block;
+    margin: 10px;
+}
+
+body {
+    background:linear-gradient(to right, #000000, #527267);
+}
+
+p {
+    font-size: 2rem;
+    color: #4ecca3;
+}
+
+img {
+    width: 10%;
+}
+.butn {
+    background: #000000;
+
+    color: #ffff;
+    font-size: 20px;
+    padding: 16px 25px 16px 25px;
+}
+.btnCent {
+    margin: 0;
+    position: absolute;
+    top: 10%;
+    left: 51%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%); 
+}
+
+.wrapper{
+    width:80%;
+    text-align: center;
+    margin: 210px;
+}
